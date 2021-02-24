@@ -10,7 +10,7 @@ card_max = 0
 for i in range(n - 3 + 1):
     result = card[i] # 맨 앞 첫번째 숫자 더해준다. (점점 오른쪽으로 갈 것임)
     for j in range(i+1, n):
-        
+
         result += card[j] # i번째 다음의 숫자를 더해준다. (점점 오른쪽으로 갈 것임)
         for k in range(j+1, n):
             result += card[k] # j번째 다음의 숫자를 더해준다. ( 점점 오른쪽으로 갈 것임)
