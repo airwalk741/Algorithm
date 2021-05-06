@@ -83,5 +83,5 @@ for j in range(1, number+1):
 
 
 
-[![SEWA](README.assets/image-20210506220038033.png)](https://swexpertacademy.com/main/code/problem/problemSolver.do)
+[![SEWA](README.assets/image-20210506220038033.png)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD)
 
