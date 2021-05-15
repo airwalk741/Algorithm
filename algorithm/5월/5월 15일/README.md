@@ -4,9 +4,7 @@
 
 #### 5248. [파이썬 S/W 문제해결 구현] 6일차 - 그룹 나누기 
 
-
-
-[![image-20210515191439856](READEME.assets/image-20210515191439856.png)](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+[![image-20210515191439856](README.assets/image-20210515191439856.png)](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
 
 
 
@@ -20,4 +18,4 @@
 
   
 
-![image-20210515191629924](READEME.assets/image-20210515191629924.png)
+![image-20210515191629924](README.assets/image-20210515191629924.png)
