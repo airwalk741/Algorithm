@@ -35,3 +35,6 @@ for _ in range(n):
         print('NO')
 ```
 
+
+
+![image-20210531125125786](README.assets/image-20210531125125786.png)
