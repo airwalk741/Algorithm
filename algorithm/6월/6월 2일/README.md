@@ -1,5 +1,7 @@
 # 6월 2일
 
+# 1.
+
 [![image-20210602153213504](1로 만들기.assets/image-20210602153213504.png)](https://www.acmicpc.net/problem/1463)
 
 
@@ -45,9 +47,9 @@ print(dp(n))
 
 
 
----
+# 2.
 
-![image-20210602161005085](README.assets/image-20210602161005085.png)
+[![image-20210602161005085](README.assets/image-20210602161005085.png)](https://www.acmicpc.net/problem/9095)
 
 
 
@@ -57,3 +59,56 @@ print(dp(n))
 
 
 ![image-20210602161244521](README.assets/image-20210602161244521.png)
+
+
+
+
+
+# 3.
+
+[![image-20210602164910963](README.assets/image-20210602164910963.png)](https://www.acmicpc.net/problem/1003)
+
+
+
+- 그냥 피보나치를 이용한 함수로 구하게 되면 쓸데 없는 연산까지 해야되서 시간초과가 발생한다
+
+- 0과 1의 개수에 따른 `visited` 배열을 만들어 `n`의 값을 인덱스라고 생각하고 구했다.
+- `n`이 40 이하이기때문에 작은 수라고 생각해서 40까지 다 구하고 출력해줬다.
+
+
+
+#### fail 이유
+
+- 시간초과가 발생 할 것 같았지만 그래도 한번 시도 해봤음
+- `if`문의 조건을 잘 못 주었다.
+
+```python
+ if n = 2:
+```
+
+
+
+- 다행히 다른 사람 풀이 (시간이 제일 적게 절린 풀이)도 나랑 비슷하게 풀었다.
+- 다만, 나처럼 배열을 2개 만드는 것이 아닌 그리고 40개까지 구하는 것이 아닌 풀이로 해결했다.
+  - 2차원 배열 선언
+
+```python
+import sys
+T = int(input())
+dp = [[1,0], [0,1]]
+q = [int(sys.stdin.readline()) for _ in range(T)]
+
+for i in range(2,max(q)+1):
+    dp.append([dp[i-2][0]+dp[i-1][0], dp[i-2][1]+dp[i-1][1]])
+for i in q:
+    print(dp[i][0], dp[i][1])
+```
+
+
+
+
+
+![image-20210602165156032](README.assets/image-20210602165156032.png)
+
+
+
