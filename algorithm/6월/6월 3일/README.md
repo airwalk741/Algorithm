@@ -1,5 +1,7 @@
 # 6월 3일
 
+# 1.
+
 [![image-20210603162547347](README.assets/image-20210603162547347.png)](https://www.acmicpc.net/problem/2579)
 
 ![image-20210603162640239](README.assets/image-20210603162640239.png)
@@ -52,3 +54,18 @@ search(0, 0, 0, sum(arr))
 print(res)
 ```
 
+
+
+# 2.
+
+[![image-20210603203624558](README.assets/image-20210603203624558.png)](https://www.acmicpc.net/problem/2193)
+
+
+
+- 하나하나 구하다가 뭔가 피보나치처럼 늘어나는 것을 느끼고 피보나치로 구현했다
+- 설마 했는데 정답이였고 다른 사람들 풀이 또한 피보나치처럼 풀었다,
+- 이친수는 피보나치인가보다
+
+
+
+![image-20210603203727917](README.assets/image-20210603203727917.png)
