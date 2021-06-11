@@ -19,7 +19,7 @@ def second():
     q = k
 
     for i in range(n):
-        for j in range(n):
+        for j in range(n//2,n):
 
             if q <= j <= k:
                 print('*', end='')
@@ -48,7 +48,7 @@ def third():
             print('*', end='')
 
 
-        if j < n // 2 + 1:
+        if j < n // 2 :
             k += 1
         else:
             k -= 1
@@ -57,7 +57,27 @@ def third():
 
 
 def fourth():
-    pass
+
+    for i in range(n):
+
+        if i < n//2 + 1:
+            k = i - 1
+            for j in range(n//2 + 1):
+                if k < j:
+                    print('*', end='')
+                else:
+                    print(end=' ')
+
+        else:
+            k = i - (n // 2) + 1
+            for j in range(n):
+                if j < n // 2:
+                    print(end=' ')
+                else:
+                    print('*' * k, end='')
+                    break
+
+        print()
 
 
 n, m = map(int, input().split())
