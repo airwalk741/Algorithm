@@ -2,7 +2,7 @@
 
 ## 🚩 N 과 M (5)
 
-[![image-20210703154027586](README.assets/image-20210703154027586.png)](acmicpc.net/problem/15654)
+[![image-20210703154027586](README.assets/image-20210703154027586.png)](https://www.acmicpc.net/problem/15654)
 
 
 
@@ -17,4 +17,18 @@
 #### 😒 FAIL 이유
 
 - `srt` 에서 바로 `sort`하면 안되더라...
+
+
+
+
+
+## 🚩 N과 M(6)
+
+[![image-20210703160025597](README.assets/image-20210703160025597.png)](acmicpc.net/problem/15655)
+
+
+
+#### ✍  풀이
+
+- 위에 문제와 똑같은 풀이
 
