@@ -17,5 +17,5 @@
 | 08 | <a href="https://www.acmicpc.net/problem/15663" target="_blank">15663</a> | [N과 M(9)](algorithm/7월/7월-6일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 | 09 | <a href="https://www.acmicpc.net/problem/15664" target="_blank">15664</a> | [N과 M(10)](algorithm/7월/7월-7일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 | 10 | <a href="https://www.acmicpc.net/problem/15665" target="_blank">15665</a> | [N과 M(11)](algorithm/7월/7월-7일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-| 10 | <a href="https://www.acmicpc.net/problem/15666" target="_blank">15666</a> | [N과 M(12)](algorithm/7월/7월-7일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 11 | <a href="https://www.acmicpc.net/problem/15666" target="_blank">15666</a> | [N과 M(12)](algorithm/7월/7월-7일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 
