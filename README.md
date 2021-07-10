@@ -21,4 +21,5 @@
 | 12 | <a href="https://www.acmicpc.net/problem/1991" target="_blank">1991</a> | [트리 순회](algorithm/7월/7월-8일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 13 | <a href="https://www.acmicpc.net/problem/4179" target="_blank">4179</a> | [불!](algorithm/7월/7월-8일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 14 | <a href="https://www.acmicpc.net/problem/2573" target="_blank">2573</a> | [빙산](algorithm/7월/7월-9일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 15 | <a href="https://www.acmicpc.net/problem/1182" target="_blank">1182</a> | [부분수열의 합](algorithm/7월/7월-10일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 
