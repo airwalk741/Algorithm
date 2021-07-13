@@ -2,7 +2,7 @@
 
 ## 🚩 로봇 청소기
 
-![image-20210713175642810](C:\Users\multicampus\Desktop\git\Algorithm\algorithm\7월\7월-13일\README.assets\image-20210713175642810.png)
+![image-20210713175642810](README.assets\image-20210713175642810.png)
 
 
 

@@ -2,7 +2,7 @@
 
 ## 🚩 모양 만들기
 
-![image-20210712201509939](C:\Users\multicampus\Desktop\git\Algorithm\algorithm\7월\7월-12일\README.assets\image-20210712201509939.png)
+![image-20210712201509939](README.assets\image-20210712201509939.png)
 
 
 
