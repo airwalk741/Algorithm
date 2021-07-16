@@ -25,5 +25,5 @@
 | 16 | <a href="https://www.acmicpc.net/problem/16932" target="_blank">16932</a> | [모양 만들기](algorithm/7월/7월-12일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 | 17 | <a href="https://www.acmicpc.net/problem/14503" target="_blank">14503</a> | [로봇 청소기](algorithm/7월/7월-13일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  |
 | 18 | <a href="https://www.acmicpc.net/problem/2156" target="_blank">2156</a> | [포도주 시식](algorithm/7월/7월-14일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  |
-| 19 | <a href="https://www.acmicpc.net/problem/9466" target="_blank">9466</a> | [팀 프로젝트](algorithm/7월/7월-15일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | ✔ |
+| 19 | <a href="https://www.acmicpc.net/problem/9466" target="_blank">9466</a> | [팀 프로젝트](algorithm/7월/7월-16일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 
