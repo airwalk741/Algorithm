@@ -30,4 +30,5 @@
 | 21 | <a href="https://www.acmicpc.net/problem/11720" target="_blank">11720</a> | [숫자의 합](algorithm/7월/7월-17일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | |
 | 22 | <a href="https://www.acmicpc.net/problem/11365" target="_blank">11365</a> | [!밀비 급일](algorithm/7월/7월-17일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | |
 | 23 | <a href="https://www.acmicpc.net/problem/9046" target="_blank">9046</a> | [복호화](algorithm/7월/7월-17일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | |
+| 24 | <a href="https://www.acmicpc.net/problem/10798" target="_blank">10798</a> | [세로 읽기](algorithm/7월/7월-17일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | |
 
