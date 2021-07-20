@@ -32,4 +32,5 @@
 | 23 | <a href="https://www.acmicpc.net/problem/9046" target="_blank">9046</a> | [복호화](algorithm/7월/7월-17일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | |
 | 24 | <a href="https://www.acmicpc.net/problem/10798" target="_blank">10798</a> | [세로 읽기](algorithm/7월/7월-17일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | |
 | 25 | <a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a> | [트리의 지름](algorithm/7월/7월-19일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | |
+| 26 | <a href="https://www.acmicpc.net/problem/1316" target="_blank">1316</a> | [그룹 단어 체커](algorithm/7월/7월-20일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | |
 
