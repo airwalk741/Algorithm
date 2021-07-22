@@ -36,4 +36,5 @@
 | 27 | <a href="https://www.acmicpc.net/problem/1181" target="_blank">1181</a> | [단어 정렬](algorithm/7월/7월-20일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | |
 | 28 | <a href="https://www.acmicpc.net/problem/20154" target="_blank">20154</a> | [이 구역의 승가는 누구야!?](algorithm/7월/7월-21일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | |
 | 29 | <a href="https://www.acmicpc.net/problem/12865" target="_blank">12865</a> | [평범한 배낭](algorithm/7월/7월-21일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | ✔ |
+| 30 | <a href="https://www.acmicpc.net/problem/2839" target="_blank">2839</a> | [설탕 배달](algorithm/7월/7월-22일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |  |
 
