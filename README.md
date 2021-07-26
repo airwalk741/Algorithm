@@ -40,3 +40,13 @@
 | 31 | <a href="https://www.acmicpc.net/problem/9536" target="_blank">9536</a> | [여우는 어떻게 울지?](algorithm/7월/7월-23일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | |
 | 32 | <a href="https://www.acmicpc.net/problem/20437" target="_blank">20437</a> | [여우는 어떻게 울지?](algorithm/7월/7월-23일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | ✔ |
 
+
+
+# 🚩 프로그래머스
+
+
+
+| 순번 |                          문제 유형                           |              문제 이름              |                            난이도                            |
+| :--: | :----------------------------------------------------------: | :---------------------------------: | :----------------------------------------------------------: |
+|  01  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3" target="_blank">스택/큐</a> | [기능 개발](algorithm/7월/7월-26일) | level <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+
