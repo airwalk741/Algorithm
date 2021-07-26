@@ -49,4 +49,5 @@
 | 순번 |                          문제 유형                           |              문제 이름              |                            난이도                            |
 | :--: | :----------------------------------------------------------: | :---------------------------------: | :----------------------------------------------------------: |
 |  01  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3" target="_blank">스택/큐</a> | [기능 개발](algorithm/7월/7월-26일) | level <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+|  01  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42578" target="_blank">해시</a> |   [위장](algorithm/7월/7월-26일)    | level <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 

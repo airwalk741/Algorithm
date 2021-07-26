@@ -45,5 +45,47 @@ def solution(progresses, speeds):
 
 
 
+## 🚩 위장
 
+[![image-20210726215218944](README.assets/image-20210726215218944.png)](https://programmers.co.kr/learn/courses/30/lessons/42578)
+
+
+
+#### ✍ 풀이
+
+- 딕셔너리로 해당 의상의 개수를 담아 준다.
+
+- 의상 종류에 따라 조합을 이용해서 해결 하고자 했다.
+
+
+
+```python
+def solution(clothes):
+    answer = 0
+    
+    spy = {}
+
+    
+    for res in clothes:
+        
+        if res[1] not in spy.keys():
+            spy[res[1]] = 1
+        else:
+            spy[res[1]] += 1 
+
+    oodt = list(spy.values())
+    
+    
+    for i in range(1, 1 << len(oodt)):
+        cnt = 1
+        for j in range(len(oodt)):
+            if i & (1 << j):
+                cnt *= oodt[j]
+                
+        answer += cnt
+
+        
+    return answer
+
+```
 
