@@ -41,6 +41,7 @@
 | 32 | <a href="https://www.acmicpc.net/problem/20437" target="_blank">20437</a> | [문자열 게임2](algorithm/7월/7월-23일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | ✔ |
 | 33 | <a href="https://www.acmicpc.net/problem/2164" target="_blank">2164</a> | [카드 2](algorithm/7월/7월-27일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 34 | <a href="https://www.acmicpc.net/problem/4659" target="_blank">4659</a> | [비밀번호 발음하기](algorithm/7월/7월-28일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | |
+| 35 | <a href="https://www.acmicpc.net/problem/16171" target="_blank">16171</a> | [나는 친구가 적다 (Small)](algorithm/7월/7월-28일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | |
 
 
 
@@ -48,8 +49,8 @@
 
 
 
-| 순번 |                          문제 유형                           |              문제 이름              |                            난이도                            |
-| :--: | :----------------------------------------------------------: | :---------------------------------: | :----------------------------------------------------------: |
-|  01  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3" target="_blank">스택/큐</a> | [기능 개발](algorithm/7월/7월-26일) | level <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-|  01  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42578" target="_blank">해시</a> |   [위장](algorithm/7월/7월-26일)    | level <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 순번 |                          문제 유형                           |              문제 이름              |                            난이도                            | FAIL |
+| :--: | :----------------------------------------------------------: | :---------------------------------: | :----------------------------------------------------------: | :--: |
+|  01  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3" target="_blank">스택/큐</a> | [기능 개발](algorithm/7월/7월-26일) | level <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |      |
+|  01  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42578" target="_blank">해시</a> |   [위장](algorithm/7월/7월-26일)    | level <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  ✔   |
 
