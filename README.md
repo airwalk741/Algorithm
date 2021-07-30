@@ -42,6 +42,7 @@
 | 33 | <a href="https://www.acmicpc.net/problem/2164" target="_blank">2164</a> | [카드 2](algorithm/7월/7월-27일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 34 | <a href="https://www.acmicpc.net/problem/4659" target="_blank">4659</a> | [비밀번호 발음하기](algorithm/7월/7월-28일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | |
 | 35 | <a href="https://www.acmicpc.net/problem/16171" target="_blank">16171</a> | [나는 친구가 적다 (Small)](algorithm/7월/7월-28일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | |
+| 36 | <a href="https://www.acmicpc.net/problem/1987" target="_blank">1987</a> | [알파벳](algorithm/7월/7월-30일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | |
 
 
 
