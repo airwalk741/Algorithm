@@ -44,6 +44,7 @@
 | 35 | <a href="https://www.acmicpc.net/problem/16171" target="_blank">16171</a> | [나는 친구가 적다 (Small)](algorithm/7월/7월-28일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | |
 | 36 | <a href="https://www.acmicpc.net/problem/1987" target="_blank">1987</a> | [알파벳](algorithm/7월/7월-30일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | ✔ |
 | 37 | <a href="https://www.acmicpc.net/problem/2581" target="_blank">2581</a> | [소수](algorithm/8월/8월-3일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |  |
+| 38 | <a href="https://www.acmicpc.net/problem/2960" target="_blank">2960</a> | [에라토스테네스의 체](algorithm/8월/8월-4일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | |
 
 
 
