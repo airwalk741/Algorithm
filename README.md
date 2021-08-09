@@ -58,5 +58,6 @@
 |  01  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3" target="_blank">스택/큐</a> |  [기능 개발](algorithm/7월/7월-26일)   |      |
 |  02  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42578" target="_blank">해시</a> |     [위장](algorithm/7월/7월-26일)     |  ✔   |
 |  03  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42587" target="_blank">프린터</a> |    [프린터](algorithm/8월/8월-2일)     |      |
-|  04  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42577" target="_blank">전화번호 목록</a> | [전화번호 목록](algorithm/8월/8월-2일) |  ✔   |
+|  04  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42577" target="_blank">해시</a> | [전화번호 목록](algorithm/8월/8월-2일) |  ✔   |
+|  05  | <a href="https://programmers.co.kr/learn/courses/30/lessons/43165" target="_blank">DFS</a> |   [타겟넘버](algorithm/8월/8월-9일)    |      |
 
