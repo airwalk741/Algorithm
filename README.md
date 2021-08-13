@@ -48,6 +48,7 @@
 | 39 | <a href="https://www.acmicpc.net/problem/2589" target="_blank">2589</a> | [보물섬](algorithm/8월/8월-6일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  |
 | 40 | <a href="https://www.acmicpc.net/problem/2293" target="_blank">2293</a> | [동전 1](algorithm/8월/8월-10일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | ✔ |
 | 41 | <a href="https://www.acmicpc.net/problem/3085" target="_blank">3085</a> | [사탕 게임](algorithm/8월/8월-11일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  |
+| 42 | <a href="https://www.acmicpc.net/problem/1890" target="_blank">1890</a> | [점프](algorithm/8월/8월-13일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | |
 
 
 
