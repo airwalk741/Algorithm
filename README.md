@@ -65,4 +65,5 @@
 |  05  | <a href="https://programmers.co.kr/learn/courses/30/lessons/43165" target="_blank">DFS</a> |       [타겟넘버](algorithm/8월/8월-9일)        |      |
 |  06  | <a href="https://programmers.co.kr/learn/courses/30/lessons/12899" target="_blank">수학</a> |   [124 나라의 숫자](algorithm/8월/8월-14일)    |  ✔   |
 |  07  | <a href="https://programmers.co.kr/learn/courses/30/lessons/81301" target="_blank">문자열</a> | [숫자 문자열과 영단어](algorithm/8월/8월-16일) |      |
+|  08  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42748" target="_blank">정렬</a> |       [k번째 수](algorithm/8월/8월-17일)       |      |
 
