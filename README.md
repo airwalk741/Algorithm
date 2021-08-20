@@ -56,15 +56,16 @@
 
 
 
-| 순번 |                          문제 유형                           |                   문제 이름                    | FAIL |
-| :--: | :----------------------------------------------------------: | :--------------------------------------------: | :--: |
-|  01  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3" target="_blank">스택/큐</a> |      [기능 개발](algorithm/7월/7월-26일)       |      |
-|  02  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42578" target="_blank">해시</a> |         [위장](algorithm/7월/7월-26일)         |  ✔   |
-|  03  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42587" target="_blank">프린터</a> |        [프린터](algorithm/8월/8월-2일)         |      |
-|  04  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42577" target="_blank">해시</a> |     [전화번호 목록](algorithm/8월/8월-2일)     |  ✔   |
-|  05  | <a href="https://programmers.co.kr/learn/courses/30/lessons/43165" target="_blank">DFS</a> |       [타겟넘버](algorithm/8월/8월-9일)        |      |
-|  06  | <a href="https://programmers.co.kr/learn/courses/30/lessons/12899" target="_blank">수학</a> |   [124 나라의 숫자](algorithm/8월/8월-14일)    |  ✔   |
-|  07  | <a href="https://programmers.co.kr/learn/courses/30/lessons/81301" target="_blank">문자열</a> | [숫자 문자열과 영단어](algorithm/8월/8월-16일) |      |
-|  08  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42748" target="_blank">정렬</a> |       [k번째 수](algorithm/8월/8월-17일)       |      |
-|  08  | <a href="https://programmers.co.kr/learn/courses/30/lessons/67256" target="_blank">카카오 인턴십</a> |    [키패드 누르기](algorithm/8월/8월-18일)     |      |
+| 순번 |                          문제 유형                           |                      문제 이름                       | FAIL |
+| :--: | :----------------------------------------------------------: | :--------------------------------------------------: | :--: |
+|  01  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3" target="_blank">스택/큐</a> |         [기능 개발](algorithm/7월/7월-26일)          |      |
+|  02  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42578" target="_blank">해시</a> |            [위장](algorithm/7월/7월-26일)            |  ✔   |
+|  03  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42587" target="_blank">프린터</a> |           [프린터](algorithm/8월/8월-2일)            |      |
+|  04  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42577" target="_blank">해시</a> |        [전화번호 목록](algorithm/8월/8월-2일)        |  ✔   |
+|  05  | <a href="https://programmers.co.kr/learn/courses/30/lessons/43165" target="_blank">DFS</a> |          [타겟넘버](algorithm/8월/8월-9일)           |      |
+|  06  | <a href="https://programmers.co.kr/learn/courses/30/lessons/12899" target="_blank">수학</a> |      [124 나라의 숫자](algorithm/8월/8월-14일)       |  ✔   |
+|  07  | <a href="https://programmers.co.kr/learn/courses/30/lessons/81301" target="_blank">문자열</a> |    [숫자 문자열과 영단어](algorithm/8월/8월-16일)    |      |
+|  08  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42748" target="_blank">정렬</a> |          [k번째 수](algorithm/8월/8월-17일)          |      |
+|  08  | <a href="https://programmers.co.kr/learn/courses/30/lessons/67256" target="_blank">카카오 인턴십</a> |       [키패드 누르기](algorithm/8월/8월-18일)        |      |
+|  09  | <a href="https://programmers.co.kr/learn/courses/30/lessons/12933" target="_blank">연습문제</a> | [정수 내림차순으로 배치하기](algorithm/8월/8월-20일) |      |
 
