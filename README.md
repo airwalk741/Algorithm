@@ -70,4 +70,5 @@
 |  08  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42748" target="_blank">정렬</a> |          [k번째 수](algorithm/8월/8월-17일)          |      |
 |  08  | <a href="https://programmers.co.kr/learn/courses/30/lessons/67256" target="_blank">카카오 인턴십</a> |       [키패드 누르기](algorithm/8월/8월-18일)        |      |
 |  09  | <a href="https://programmers.co.kr/learn/courses/30/lessons/12933" target="_blank">연습문제</a> | [정수 내림차순으로 배치하기](algorithm/8월/8월-20일) |      |
+|  10  | <a href="https://programmers.co.kr/learn/courses/30/lessons/42583" target="_blank">스택/큐</a> |     [다리를 지나는 트럭](algorithm/8월/8월-23일)     |  ✔   |
 
