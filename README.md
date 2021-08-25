@@ -52,6 +52,7 @@
 | 43 | <a href="https://www.acmicpc.net/problem/14226" target="_blank">14226</a> | [이모티콘](algorithm/8월/8월-21일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | |
 | 44 | <a href="https://www.acmicpc.net/problem/2615" target="_blank">2615</a> | [오목](algorithm/8월/8월-21일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | |
 | 45 | <a href="https://www.acmicpc.net/problem/6550" target="_blank">6550</a> | [부분 문자열](algorithm/8월/8월-24일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | |
+| 46 | <a href="https://www.acmicpc.net/problem/1764" target="_blank">1764</a> | [듣보잡](algorithm/8월/8월-25일) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | |
 
 
 
